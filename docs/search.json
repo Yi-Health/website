@@ -1,68 +1,97 @@
 [
   {
-    "objectID": "team-en.html",
-    "href": "team-en.html",
-    "title": "Our Team",
+    "objectID": "english.html",
+    "href": "english.html",
+    "title": "Apply for the free trail eHealth",
     "section": "",
-    "text": "Shiyu Liu\nYujing Gao\nChao Zhang",
+    "text": "Please scan the QR code to apply the free trial of our health management AI assistant.",
     "crumbs": [
       "English",
-      "Our Team"
+      "Apply for the free trail eHealth"
     ]
   },
   {
-    "objectID": "team-en.html#ehealth-team",
-    "href": "team-en.html#ehealth-team",
-    "title": "Our Team",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EasyHealth 易健",
     "section": "",
-    "text": "Shiyu Liu\nYujing Gao\nChao Zhang",
+    "text": "欢迎您来到EasyHealth易健官网！\nWelcome to the offical website for EasyHealth!"
+  },
+  {
+    "objectID": "chinese.html",
+    "href": "chinese.html",
+    "title": "体验易健小助手",
+    "section": "",
+    "text": "扫码体验易健小助手",
+    "crumbs": [
+      "中文",
+      "体验易健小助手"
+    ]
+  },
+  {
+    "objectID": "introduction-en.html",
+    "href": "introduction-en.html",
+    "title": "background",
+    "section": "",
+    "text": "The individual citizen is primarily responsible for their own health.",
     "crumbs": [
       "English",
-      "Our Team"
+      "background"
     ]
   },
   {
-    "objectID": "team-zh.html",
-    "href": "team-zh.html",
-    "title": "我们的团队",
+    "objectID": "introduction-en.html#philosophy",
+    "href": "introduction-en.html#philosophy",
+    "title": "background",
     "section": "",
-    "text": "刘时雨\n高瑜静\n张超",
+    "text": "The individual citizen is primarily responsible for their own health.",
     "crumbs": [
-      "中文",
-      "我们的团队"
+      "English",
+      "background"
     ]
   },
   {
-    "objectID": "team-zh.html#易健团队",
-    "href": "team-zh.html#易健团队",
-    "title": "我们的团队",
-    "section": "",
-    "text": "刘时雨\n高瑜静\n张超",
+    "objectID": "introduction-en.html#policy",
+    "href": "introduction-en.html#policy",
+    "title": "background",
+    "section": "Policy",
+    "text": "Policy\n\nMutual recognition of medical examination results\nInteroperability of Electronic Health Records",
     "crumbs": [
-      "中文",
-      "我们的团队"
+      "English",
+      "background"
     ]
   },
   {
-    "objectID": "functionality-zh.html",
-    "href": "functionality-zh.html",
-    "title": "功能",
-    "section": "",
-    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
+    "objectID": "introduction-en.html#technology",
+    "href": "introduction-en.html#technology",
+    "title": "background",
+    "section": "Technology",
+    "text": "Technology\n\nThe application of the GPT in medical care industry\nGPT-4Med, Med-PalM",
     "crumbs": [
-      "中文",
-      "功能"
+      "English",
+      "background"
     ]
   },
   {
-    "objectID": "functionality-zh.html#功能详述",
-    "href": "functionality-zh.html#功能详述",
-    "title": "功能",
-    "section": "",
-    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
+    "objectID": "introduction-en.html#needs",
+    "href": "introduction-en.html#needs",
+    "title": "background",
+    "section": "Needs",
+    "text": "Needs\n\nThe needs to copy the health record\nEHR-discontinuity",
     "crumbs": [
-      "中文",
-      "功能"
+      "English",
+      "background"
+    ]
+  },
+  {
+    "objectID": "introduction-en.html#team",
+    "href": "introduction-en.html#team",
+    "title": "background",
+    "section": "Team",
+    "text": "Team\n\nExpertise in difficult flied\nEnthusiasm in health care",
+    "crumbs": [
+      "English",
+      "background"
     ]
   },
   {
@@ -132,109 +161,69 @@
     ]
   },
   {
-    "objectID": "functionality-en.html",
-    "href": "functionality-en.html",
-    "title": "Functionality",
+    "objectID": "functionality-zh.html",
+    "href": "functionality-zh.html",
+    "title": "功能",
     "section": "",
-    "text": "We are still working on translate the functionality of our mini program to English. Please come back later.",
-    "crumbs": [
-      "English",
-      "Functionality"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html",
-    "href": "introduction-en.html",
-    "title": "Background",
-    "section": "",
-    "text": "The individual citizen is primarily responsible for their own health.",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#philosophy",
-    "href": "introduction-en.html#philosophy",
-    "title": "Background",
-    "section": "",
-    "text": "The individual citizen is primarily responsible for their own health.",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#policy",
-    "href": "introduction-en.html#policy",
-    "title": "Background",
-    "section": "Policy",
-    "text": "Policy\n\nMutual recognition of medical examination results\nInteroperability of Electronic Health Records",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#technology",
-    "href": "introduction-en.html#technology",
-    "title": "Background",
-    "section": "Technology",
-    "text": "Technology\n\nThe application of the GPT in medical care industry\nGPT-4Med, Med-PalM",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#needs",
-    "href": "introduction-en.html#needs",
-    "title": "Background",
-    "section": "Needs",
-    "text": "Needs\n\nThe needs to copy the health record\nEHR-discontinuity",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#team",
-    "href": "introduction-en.html#team",
-    "title": "Background",
-    "section": "Team",
-    "text": "Team\n\nExpertise in difficult flied\nEnthusiasm in health care",
-    "crumbs": [
-      "English",
-      "Background"
-    ]
-  },
-  {
-    "objectID": "chinese.html",
-    "href": "chinese.html",
-    "title": "体验易健小助手",
-    "section": "",
-    "text": "扫码体验易健小助手",
+    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
     "crumbs": [
       "中文",
-      "体验易健小助手"
+      "功能"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "eHealth 易健",
+    "objectID": "functionality-zh.html#功能详述",
+    "href": "functionality-zh.html#功能详述",
+    "title": "功能",
     "section": "",
-    "text": "欢迎您来到eHealth易健官网！\nWelcome to the offical website for eHealth!"
+    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
+    "crumbs": [
+      "中文",
+      "功能"
+    ]
   },
   {
-    "objectID": "english.html",
-    "href": "english.html",
-    "title": "Apply for the free trail eHealth",
+    "objectID": "team-zh.html",
+    "href": "team-zh.html",
+    "title": "我们的团队",
     "section": "",
-    "text": "Please scan the QR code to apply the free trial of our health management AI assistant.",
+    "text": "刘时雨\n高瑜静",
+    "crumbs": [
+      "中文",
+      "我们的团队"
+    ]
+  },
+  {
+    "objectID": "team-zh.html#易健团队",
+    "href": "team-zh.html#易健团队",
+    "title": "我们的团队",
+    "section": "",
+    "text": "刘时雨\n高瑜静",
+    "crumbs": [
+      "中文",
+      "我们的团队"
+    ]
+  },
+  {
+    "objectID": "team-en.html",
+    "href": "team-en.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Shiyu Liu\nYujing Gao",
     "crumbs": [
       "English",
-      "Apply for the free trail eHealth"
+      "Our Team"
+    ]
+  },
+  {
+    "objectID": "team-en.html#ehealth-team",
+    "href": "team-en.html#ehealth-team",
+    "title": "Our Team",
+    "section": "",
+    "text": "Shiyu Liu\nYujing Gao",
+    "crumbs": [
+      "English",
+      "Our Team"
     ]
   }
 ]
