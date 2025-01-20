@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Functionality – EasyHealth</title>
+<title>Features Overview – EasyHealth</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home 主页</span></a>
+<span class="menu-text">主页 Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./chinese.html"> 
@@ -99,6 +99,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./english.html" aria-current="page"> 
 <span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Dengue.html"> 
+<span class="menu-text">Disease Prevention</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./functionality-en.html">Functionality</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./functionality-en.html">Features Overview</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -126,19 +130,19 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./english.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Apply for the free trail eHealth</span></a>
+ <span class="menu-text">EasyHealth AI mini-program</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./introduction-en.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">background</span></a>
+ <span class="menu-text">Our Mission</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./functionality-en.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Functionality</span></a>
+ <span class="menu-text">Features Overview</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -147,26 +151,29 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Our Team</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./Dengue.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Dengue Fever in Yunnan Province</span></a>
-  </div>
-</li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#health-record-management" id="toc-health-record-management" class="nav-link active" data-scroll-target="#health-record-management">Health Record Management</a></li>
+  <li><a href="#health-assessment-algorithms" id="toc-health-assessment-algorithms" class="nav-link" data-scroll-target="#health-assessment-algorithms">Health Assessment Algorithms</a></li>
+  <li><a href="#intelligent-question-answering-system" id="toc-intelligent-question-answering-system" class="nav-link" data-scroll-target="#intelligent-question-answering-system">Intelligent Question-Answering System</a></li>
+  <li><a href="#customize-consultation" id="toc-customize-consultation" class="nav-link" data-scroll-target="#customize-consultation">Customize Consultation</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Functionality</h1>
+<h1 class="title">Features Overview</h1>
 </div>
 
 
@@ -183,8 +190,73 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/AI.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="500"></p>
+</figure>
+</div>
+<section id="health-record-management" class="level3">
+<h3 class="anchored" data-anchor-id="health-record-management">Health Record Management</h3>
+<ul>
+<li><p>Home page offers five entry categories—Basic, Nutrition, Mental Health, Fitness, and Clinic—for compiling user health profiles that cover over 30 distinct health assessment parameters. These profiles form a comprehensive knowledge base, providing training data for the LLM. Through domain-specific fine-tuning, the model delivers contextually relevant and personalized health-related responses.</p>
+<p><img src="images/健一健.png" class="img-fluid" width="300"><img src="images/心.png" class="img-fluid" width="300"><img src="images/运动.png" class="img-fluid" width="300"></p></li>
+</ul>
+</section>
+<section id="health-assessment-algorithms" class="level3">
+<h3 class="anchored" data-anchor-id="health-assessment-algorithms">Health Assessment Algorithms</h3>
+<ul>
+<li>Health assessment algorithms in EasyHealth AI rely on scientific scales, including the Hospital Anxiety and Depression Scale and the World Health Organization’s Healthy Diet Indicator. The platform continuously integrates insights and research findings with each update.</li>
+</ul>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/mental.jpg" class="img-fluid figure-img"></p>
+<figcaption>Mental Health Assessment</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/food.jpg" class="img-fluid figure-img"></p>
+<figcaption>Healthy Diet Indicator</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="intelligent-question-answering-system" class="level3">
+<h3 class="anchored" data-anchor-id="intelligent-question-answering-system">Intelligent Question-Answering System</h3>
+<ul>
+<li><p>EasyHealth AI adopts a conversational interface paradigm, featuring an AI-driven health assistant designated as “Yi.” This design facilitates natural, message-based interactions, credible access to personalized health information through an AI-powered interface. Conversations are structured around evidence-based health insights, strategies, and interventions across multiple health domains.</p></li>
+<li><p>The AI assistant responds to user-input queries with customized text responses. Available 24/7 for immediate health information access, the assistant meets users’ health needs on-demand, enhancing information access and providing emotional support through interactive engagement. A multi-turn dialogue mechanism allows users to explore health topics in depth, promoting better understanding and acceptance of health information.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/chatEN.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="500"></p>
+</figure>
+</div></li>
+</ul>
+</section>
+<section id="customize-consultation" class="level3">
+<h3 class="anchored" data-anchor-id="customize-consultation">Customize Consultation</h3>
+<ul>
+<li>EasyHealth integrates sophisticated algorithms for emotional intelligence processing, health record management, health assessment, and personalized consultations. Emotional intelligence processing features AI response style customization, with the chatbot Yi able to understand and adapt to different communication styles, dynamically adjusting its language style. Empathic responses are calibrated to the user’s mood, and the smart Q&amp;A page offers a “Customize message personally” option, allowing users to tailor how responses are generated.</li>
+<li>Personalized consultation engines include therapeutic elements such as content personalization based on interaction history, preference-aware adaptations, feedback-driven content optimization, and continuous database updates based on user interactions.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/styleEN.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="500"></p>
+</figure>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

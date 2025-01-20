@@ -1,207 +1,206 @@
 [
   {
+    "objectID": "Dengue.html",
+    "href": "Dengue.html",
+    "title": "AI for Battling Vector-borne Diseases",
+    "section": "",
+    "text": "Plan for the Digital Prevention and Control Program of Dengue Fever\nDengue fever is an acute infectious disease caused by the dengue virus, primarily transmitted by the Aedes albopictus and Aedes aegypti mosquitoes. Clinically, it is characterized by a sudden onset of fever, widespread muscle, bone, and joint pain, extreme fatigue, rash, swollen lymph nodes, and leukopenia. The World Health Organization (WHO) recognizes dengue fever as one of the top ten public health threats.",
+    "crumbs": [
+      "Disease Prevention",
+      "AI for Battling Vector-borne Diseases"
+    ]
+  },
+  {
+    "objectID": "Dengue.html#epidemiology-of-dengue-fever-global-national-and-regional-perspectives",
+    "href": "Dengue.html#epidemiology-of-dengue-fever-global-national-and-regional-perspectives",
+    "title": "AI for Battling Vector-borne Diseases",
+    "section": "Epidemiology of Dengue Fever: Global, National, and Regional Perspectives",
+    "text": "Epidemiology of Dengue Fever: Global, National, and Regional Perspectives\n\nGlobal Epidemiological Overview Each year, more than 100 million to 400 million cases of dengue are reported worldwide, with 3.8 billion people living in dengue-endemic areas, the majority of which are in Asia, Africa, and the Americas. Data show that over a 50-year period from 1960 to 2010, the global incidence of dengue increased approximately 30-fold. In 2023, the highest number of dengue cases were reported, with the WHO’s Americas region reporting 4.5 million cases and 2,300 deaths. Due to climate change and urbanization, dengue cases may increase and the geographic spread of the disease could expand. \n\n\n\n\n\n\n\n\nThree-month dengue virus disease case notification rate per 100 000 population, in 2024\n\n\n\nDengue Fever in China: National Trends and Challenges In China, dengue is primarily distributed in the southern regions, but with global warming and improved transportation, there is a trend for the disease to spread westward and northward. In 2024, the number of reported dengue cases in China reached 23,888, indicating an increased risk of large-scale outbreaks.  Our analysis of dengue cases in China from 2005 to 2024 shows a general upward trend in dengue epidemics over the past 20 years, with a particularly high incidence in the last two decades. In 2014, the number of cases reached 46,846.  Dengue fever shows a distinct regional distribution. In the past five years, dengue transmission risks have been present in Southwest China, South China, and East China, with most cases concentrated in the border areas of Southwest and South China. This suggests a wide geographic distribution of the risk for large-scale dengue outbreaks, with more notable outbreaks in specific regions. From 2020 to 2022, primary outbreak areas were concentrated in Dehong Dai and Jingpo Autonomous Prefecture of Yunnan Province and Wuzhou City in the Guangxi Zhuang Autonomous Region. In 2023, the primary outbreak areas were focused on seven cities in the southwest border regions of Yunnan Province. Dengue fever shows a distinct regional distribution. In the past five years, dengue transmission risks have been present in Southwest China, South China, and East China, with most cases concentrated in the border areas of Southwest and South China. This suggests a wide geographic distribution of the risk for large-scale dengue outbreaks, with more notable outbreaks in specific regions. From 2020 to 2022, primary outbreak areas were concentrated in Dehong Dai and Jingpo Autonomous Prefecture of Yunnan Province and Wuzhou City in the Guangxi Zhuang Autonomous Region. In 2023, the primary outbreak areas were focused on seven cities in the southwest border regions of Yunnan Province.\n\n\n\n\n\n\n\n\n\nDengue cases reported yearly from 2005 to 2024 (as of November) in China\n\n\n\n\n\n\n\n\n\n\nSpatio-temporal Shifts in the Cluster Centers of Dengue Fever Incidence Rates in China (2005-2023)\n\n\n\n\nDengue Fever in Yunnan: Regional Patterns and Concerns Yunnan Province, located near Southeast Asian countries like Laos, Myanmar, and Vietnam, where dengue fever is widely prevalent, is one of the high-incidence areas for dengue in China.  We collected dengue case data from Yunnan between 2005 and 2023 and found significant variations in the number of cases over this period. From 2005 to 2013, the number of cases remained at a relatively low level, with typically fewer than 50 cases reported annually, and there was little change overall. However, starting in 2014, the number of cases increased significantly and showed an upward trend each year. 2019 marked a major peak year, with 6,471 reported cases, the highest during this period. Afterward, the number of cases sharply dropped in 2020, to only 842 cases, and further decreased in 2021 and 2022, with 13 and 540 cases, respectively.However,in 2023, the number of cases surged dramatically, reaching 13,482, a new high in 19 years. This data indicates a large-scale recurrence and spread of dengue outbreaks. \n\n\n\n\n\n\n\n\n\nDengue cases reported yearly from 2005 to 2023 in Yunnan Province",
+    "crumbs": [
+      "Disease Prevention",
+      "AI for Battling Vector-borne Diseases"
+    ]
+  },
+  {
+    "objectID": "Dengue.html#dengue-fever-prevention-and-control-system-technical-plan-in-yunnan",
+    "href": "Dengue.html#dengue-fever-prevention-and-control-system-technical-plan-in-yunnan",
+    "title": "AI for Battling Vector-borne Diseases",
+    "section": "Dengue Fever Prevention and Control System Technical Plan in Yunnan",
+    "text": "Dengue Fever Prevention and Control System Technical Plan in Yunnan\n\nOverview\n\nThe successful implementation of the Mo-Buzz model in Sri Lanka and Thailand provides valuable experience for dengue fever control. This model has shown that timely identification and effective management of mosquito breeding sites are key to controlling vector-borne diseases like dengue fever. By utilizing digital tools for real-time monitoring and rapid response, the prevention and control effects have been significantly enhanced.  With the rapid development of artificial intelligence (AI), personalized, one-on-one smart Q&A is becoming a new form of information dissemination, capable of providing real-time responses and transmitting epidemic-related information. At the same time, short-video platforms like TikTok demonstrate powerful information dissemination capabilities and user engagement.  Therefore, we propose Mo-Buzz + EasyHealth AI + TikTok as an innovative technical pathway for epidemic prevention and control. This approach is applicable to dengue fever control in the Yunnan province of China, with plans to expand its use to other infectious diseases monitoring and management.  This technical pathway will connect health management agencies, public health departments, and the general public through social media, using crowdsourced data collection and AI technology for digital gathering, analysis, and dissemination of epidemic information. A series of functional modules will be developed to enhance the efficiency and accuracy of information transmission while increasing community involvement, encouraging the public to participate in epidemic prevention efforts. \n\n\n\n\nSystem Architecture\n\nBased on the Mo-Buzz + EasyHealth AI + TikTok approach, we will develop an “all-in-one multi-end” application system. The system will consist of two main modules: the User-Portal and the Admin-Portal. The User-Portal will focus on data collection and health education, while the Admin-Portal will concentrate on data analysis, epidemic monitoring, and health interventions. This modular structure ensures system flexibility and scalability, improving both the response speed and accuracy of epidemic control efforts.\n\n\n\n\n\n\n\n\nMo-Buzz + AI + TikTok Technology Solution\n\n\n\nUser Portal\n\nThe User-Portal module is designed for public use, aiming to enhance public participation and data collection efficiency while providing personalized health education and information dissemination. Its specific functions are as follows: \nLocation and Reporting Function: Public users can input information via smartphones, reporting suspected mosquito breeding sites through text descriptions, photo uploads, or video recordings. The system will utilize the smartphone’s GPS functionality to log the geographical location of the submitted information. Based on the characteristics of the report, such as breeding site type, environmental conditions, and case type, the system will automatically assign tags to the data for subsequent management. \nEpidemic Information Dissemination:  Based on the user’s location, the system will automatically push nearby epidemic alerts. It will also offer personalized prevention and control knowledge based on the user’s historical behavior. The system will support health departments in publishing official announcements, ensuring timely delivery of critical information. The system will integrate with mainstream social media platforms (like WeChat and Weibo) through APIs, allowing users to log in with their social media accounts and share information quickly. The system will optimize content format and presentation based on platform characteristics to help users share epidemic control-related content, increasing public participation in epidemic prevention.\nHealth Education Smart Assistant:  Based on the GPT model, the system can understand users’ natural language inputs and provide accurate Q&A regarding prevention and control knowledge. By analyzing user data, such as geographical location, habits, and points of interest, it will build user profiles and automatically generate personalized health education content, selecting the appropriate timing and methods for pushing information. Based on the user’s health status and nearby epidemic data, it will assess the risk of epidemic transmission in the user’s area. In case of a high-risk situation, it will generate a warning and offer targeted prevention suggestions.\n\n\n\nAdmin-Portal\n\nThe Admin-Portal module is for public health observers (PHIs) and public health institutions, providing comprehensive data aggregation, analysis, and decision support to help authorities respond quickly and intervene effectively. Its specific functions are as follows:\nCrowdsourced Data Review and Confirmation: Since the information uploaded by users depends on public participation, the data quality can vary. Therefore, the system will include a data review mechanism. It will automatically verify user-submitted images, videos, and other data, identifying potential issues and ensuring the accuracy and validity of the information. Additionally, manual review will be employed to confirm the quality of the uploaded data. Publicly available training materials will be provided to educate users on the correct reporting methods to reduce false or inaccurate information.\nEpidemic Data Management and Analysis:   The Admin-Portal will aggregate data from the User-Portal (e.g., breeding site locations, case distributions, transmission trends) and generate real-time dengue fever epidemic heat maps, displaying the epidemic’s development. Data can be filtered by time range, geographical location, case type, etc., and the system will update the map in real time, helping decision-makers assess risk areas and epidemic trends.\nRapid Response and Intervention:  Based on the epidemic heat map and risk assessment, the system will identify and flag high-risk epidemic areas. It will automatically generate targeted control recommendations for specific areas to assist public health departments in decision-making. When the system detects potential epidemic hotspots or abnormal data, it will trigger an alert to notify the relevant departments for timely investigation.\nReal-Time Health Communication:  The Admin-Portal integrates with social media platforms, enabling information dissemination on mainstream social media sites. Every posted update regarding the epidemic, control measures, or health education will be synchronized across multiple platforms. This will encourage information flow and public engagement. Users can also interact with posts, such as commenting and liking, enhancing the impact of prevention and control efforts.\n\n\nThe core feature of the system is to enhance the automation of health communication through intelligent services while providing personalized health advice and alert information to the public. The system will ensure real-time data updates, establish a rapid response mechanism, and support bidirectional information flow and interactive feedback. It will be updated iteratively to adapt to the epidemic prevention needs of different regions and various infectious diseases in the future.",
+    "crumbs": [
+      "Disease Prevention",
+      "AI for Battling Vector-borne Diseases"
+    ]
+  },
+  {
     "objectID": "english.html",
     "href": "english.html",
-    "title": "Apply for the free trail eHealth",
+    "title": "EasyHealth AI mini-program",
     "section": "",
-    "text": "Please scan the QR code to apply the free trial of our health management AI assistant.",
+    "text": "Please open the WeChat app, scan the QR code below, and use EasyHealth AI services.",
     "crumbs": [
       "English",
-      "Apply for the free trail eHealth"
+      "EasyHealth AI mini-program"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "EasyHealth 易健",
+    "title": "易健 EasyHealth AI",
     "section": "",
-    "text": "欢迎您来到EasyHealth易健官网！\nWelcome to the offical website for EasyHealth!"
+    "text": "欢迎访问易健AI官网\nWelcome to EasyHealth AI Official Website\nAI-powered health communication application service provider"
+  },
+  {
+    "objectID": "index.html#全球发布-global-launch-video",
+    "href": "index.html#全球发布-global-launch-video",
+    "title": "易健 EasyHealth AI",
+    "section": "全球发布 Global Launch Video",
+    "text": "全球发布 Global Launch Video\n\n\n\nEasyHealth 2.0"
+  },
+  {
+    "objectID": "index.html#功能-features",
+    "href": "index.html#功能-features",
+    "title": "易健 EasyHealth AI",
+    "section": "功能 Features",
+    "text": "功能 Features\n\n\n\n\n\n\n\n\n\nEnglish Version\n\n\n\n\n\n\n\n中文版本\n\n\n\n\n\n\n\n中文繁體版本\n\n\n\n\n\n\n\n定制人工智能应用, 易享健康生活\n\n\nCustomize Your Own AI Assistant，Healthy Living Made Easy\n\n\n\n\n\n\n\n\n\n\n\n\n智能问答\n\n\n\n\n\n\n\nChat with AI assistant Yi\n\n\n\n\n\n\n\n与智能助手小易对话\n\n\nChat with AI health assistant Yi"
+  },
+  {
+    "objectID": "index.html#关于我们-about-us",
+    "href": "index.html#关于我们-about-us",
+    "title": "易健 EasyHealth AI",
+    "section": "关于我们 About us",
+    "text": "关于我们 About us\n  易健AI致力于健康传播AI应用程序开发，基于大语言模型，打造健康传播智能系统。通过多模态健康档案管理、智能问答系统、情感智能交互、健康数据分析以及多语言处理等功能，自动生成健康内容，协助用户根据自身健康状况定制健康信息。  自2024年创立以来，易健AI微信小程序吸引了大量用户，在中国30多个省市区，包括香港及海外地区获得了广泛认可。\n\n  EasyHealth AI is an artificial intelligence-powered healthcare platform implemented as a WeChat mini-program that delivers real-time, personalized health information services. The platform integrates comprehensive global medical knowledge with a robust AI approach to actively assist users in managing their health.  The platform’s core functionality is built upon a large language model (LLM) that powers an intelligent health management question-answering system. It offers five entry categories—Basic, Nutrition, Mental Health, Fitness, and Clinic—for compiling user health profiles that cover over 30 distinct health assessment parameters. These profiles form a comprehensive knowledge base, providing training data for the LLM. Through domain-specific fine-tuning, the model delivers contextually relevant and personalized health-related responses."
   },
   {
     "objectID": "chinese.html",
     "href": "chinese.html",
-    "title": "体验易健小助手",
+    "title": "易健AI微信小程序",
     "section": "",
-    "text": "扫码体验易健小助手",
+    "text": "打开微信app，扫描以下二维码，使用易健AI服务",
     "crumbs": [
       "中文",
-      "体验易健小助手"
+      "易健AI微信小程序"
     ]
   },
   {
     "objectID": "introduction-en.html",
     "href": "introduction-en.html",
-    "title": "background",
+    "title": "Our Mission",
     "section": "",
-    "text": "The individual citizen is primarily responsible for their own health.",
+    "text": "People Are Responsible for Own Health   Under the Healthy China strategy, popularizing health knowledge and improving health literacy across the population are crucial measures for improving national health. Guiding individuals to become the “primary responsible person” for their own health, promoting awareness of public health, and making health knowledge, beliefs, and behaviors basic qualities of every person rely on the effective functioning of health communication systems.  We uphold the “people-centered” concept and are committed to making artificial intelligence technology more convenient, helpful, and trustworthy to people. With our mission of “making technology inclusive and beneficial, and using artificial intelligence to build a healthy China,” we continue to breakthrough and innovate in health record management, intelligent Q&A, health data analysis, personalized health consultation, speech synthesis, and other areas to build an intelligent health communication ecosystem.",
     "crumbs": [
       "English",
-      "background"
+      "Our Mission"
     ]
   },
   {
     "objectID": "introduction-en.html#philosophy",
     "href": "introduction-en.html#philosophy",
-    "title": "background",
+    "title": "Our Mission",
     "section": "",
-    "text": "The individual citizen is primarily responsible for their own health.",
+    "text": "People Are Responsible for Own Health   Under the Healthy China strategy, popularizing health knowledge and improving health literacy across the population are crucial measures for improving national health. Guiding individuals to become the “primary responsible person” for their own health, promoting awareness of public health, and making health knowledge, beliefs, and behaviors basic qualities of every person rely on the effective functioning of health communication systems.  We uphold the “people-centered” concept and are committed to making artificial intelligence technology more convenient, helpful, and trustworthy to people. With our mission of “making technology inclusive and beneficial, and using artificial intelligence to build a healthy China,” we continue to breakthrough and innovate in health record management, intelligent Q&A, health data analysis, personalized health consultation, speech synthesis, and other areas to build an intelligent health communication ecosystem.",
     "crumbs": [
       "English",
-      "background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#policy",
-    "href": "introduction-en.html#policy",
-    "title": "background",
-    "section": "Policy",
-    "text": "Policy\n\nMutual recognition of medical examination results\nInteroperability of Electronic Health Records",
-    "crumbs": [
-      "English",
-      "background"
+      "Our Mission"
     ]
   },
   {
     "objectID": "introduction-en.html#technology",
     "href": "introduction-en.html#technology",
-    "title": "background",
+    "title": "Our Mission",
     "section": "Technology",
-    "text": "Technology\n\nThe application of the GPT in medical care industry\nGPT-4Med, Med-PalM",
+    "text": "Technology\n\nLarge Language Models Applied to Healthcare   Compared to traditional digital media, artificial intelligence possess general capabilities in generalization, natural language processing, and knowledge integration. These characteristics lower the technical barriers to utilize, support customized applications in different scenarios, and provide new communication mediums for precise, efficient, and personalized health communication. Whether the professionals or the general public, everyone can engage in health consultation dialogues with AI anytime, anywhere, making medical information more accessible and understandable, effectively improving the dissemination of health knowledge.  EasyHealth AI is leading an intelligent revolution in health education, contributing to the construction of China’s smart healthcare ecosystem. Since its launch, the mini-program has introduced multiple innovative features, including multimodal health record management, AI intelligent Q&A, health data analysis and personalized health consultation, as well as multilingual processing capabilities. These functions not only improve the automation of educational content generation but also achieve personalized content distribution, significantly enhancing the efficiency and precision of health communication.",
     "crumbs": [
       "English",
-      "background"
-    ]
-  },
-  {
-    "objectID": "introduction-en.html#needs",
-    "href": "introduction-en.html#needs",
-    "title": "background",
-    "section": "Needs",
-    "text": "Needs\n\nThe needs to copy the health record\nEHR-discontinuity",
-    "crumbs": [
-      "English",
-      "background"
+      "Our Mission"
     ]
   },
   {
     "objectID": "introduction-en.html#team",
     "href": "introduction-en.html#team",
-    "title": "background",
+    "title": "Our Mission",
     "section": "Team",
-    "text": "Team\n\nExpertise in difficult flied\nEnthusiasm in health care",
+    "text": "Team\n\nDiverse Talents United by a Passion for Health   Team members have deep experience in health communication and artificial intelligence technology, dedicated to applying AI technology in health communication practices.",
     "crumbs": [
       "English",
-      "background"
+      "Our Mission"
+    ]
+  },
+  {
+    "objectID": "functionality-en.html",
+    "href": "functionality-en.html",
+    "title": "Features Overview",
+    "section": "",
+    "text": "Health Record Management\n\nHome page offers five entry categories—Basic, Nutrition, Mental Health, Fitness, and Clinic—for compiling user health profiles that cover over 30 distinct health assessment parameters. These profiles form a comprehensive knowledge base, providing training data for the LLM. Through domain-specific fine-tuning, the model delivers contextually relevant and personalized health-related responses.\n\n\n\n\nHealth Assessment Algorithms\n\nHealth assessment algorithms in EasyHealth AI rely on scientific scales, including the Hospital Anxiety and Depression Scale and the World Health Organization’s Healthy Diet Indicator. The platform continuously integrates insights and research findings with each update.\n\n\n\n\n\n\n\n\n\n\nMental Health Assessment\n\n\n\n\n\n\n\nHealthy Diet Indicator\n\n\n\n\n\n\n\nIntelligent Question-Answering System\n\nEasyHealth AI adopts a conversational interface paradigm, featuring an AI-driven health assistant designated as “Yi.” This design facilitates natural, message-based interactions, credible access to personalized health information through an AI-powered interface. Conversations are structured around evidence-based health insights, strategies, and interventions across multiple health domains.\nThe AI assistant responds to user-input queries with customized text responses. Available 24/7 for immediate health information access, the assistant meets users’ health needs on-demand, enhancing information access and providing emotional support through interactive engagement. A multi-turn dialogue mechanism allows users to explore health topics in depth, promoting better understanding and acceptance of health information.\n\n\n\n\n\n\n\n\nCustomize Consultation\n\nEasyHealth integrates sophisticated algorithms for emotional intelligence processing, health record management, health assessment, and personalized consultations. Emotional intelligence processing features AI response style customization, with the chatbot Yi able to understand and adapt to different communication styles, dynamically adjusting its language style. Empathic responses are calibrated to the user’s mood, and the smart Q&A page offers a “Customize message personally” option, allowing users to tailor how responses are generated.\nPersonalized consultation engines include therapeutic elements such as content personalization based on interaction history, preference-aware adaptations, feedback-driven content optimization, and continuous database updates based on user interactions.",
+    "crumbs": [
+      "English",
+      "Features Overview"
     ]
   },
   {
     "objectID": "introduction-zh.html",
     "href": "introduction-zh.html",
-    "title": "项目背景",
+    "title": "发展愿景",
     "section": "",
-    "text": "公民是自己健康的第一责任人",
+    "text": "公民是自己健康的第一责任人   在健康中国战略背景下，普及健康知识，提高全民健康素养，是实现全民健康的重要举措。引导个人成为自己健康的“第一责任人”，促进人民健康文化自觉，推动健康知识、信念和行为成为每个人的基本素质，有赖于健康传播系统发力。  我们秉承“以人为本”理念，致力于让人工智能技术进一步方便人、帮助人、尊重人。我们以“让技术普惠包容，用人工智能建设健康中国”为使命，在健康档案管理、智能问答、健康数据分析、个性化健康咨询、语音合成等方面不断突破与创新，构建健康传播智能生态系统。",
     "crumbs": [
       "中文",
-      "项目背景"
+      "发展愿景"
     ]
   },
   {
     "objectID": "introduction-zh.html#理念",
     "href": "introduction-zh.html#理念",
-    "title": "项目背景",
+    "title": "发展愿景",
     "section": "",
-    "text": "公民是自己健康的第一责任人",
+    "text": "公民是自己健康的第一责任人   在健康中国战略背景下，普及健康知识，提高全民健康素养，是实现全民健康的重要举措。引导个人成为自己健康的“第一责任人”，促进人民健康文化自觉，推动健康知识、信念和行为成为每个人的基本素质，有赖于健康传播系统发力。  我们秉承“以人为本”理念，致力于让人工智能技术进一步方便人、帮助人、尊重人。我们以“让技术普惠包容，用人工智能建设健康中国”为使命，在健康档案管理、智能问答、健康数据分析、个性化健康咨询、语音合成等方面不断突破与创新，构建健康传播智能生态系统。",
     "crumbs": [
       "中文",
-      "项目背景"
-    ]
-  },
-  {
-    "objectID": "introduction-zh.html#政策",
-    "href": "introduction-zh.html#政策",
-    "title": "项目背景",
-    "section": "政策",
-    "text": "政策\n\n医疗检查结果互认\n电子病历互联互通",
-    "crumbs": [
-      "中文",
-      "项目背景"
+      "发展愿景"
     ]
   },
   {
     "objectID": "introduction-zh.html#技术",
     "href": "introduction-zh.html#技术",
-    "title": "项目背景",
+    "title": "发展愿景",
     "section": "技术",
-    "text": "技术\n\nGPT医疗应用（国际22+中国25）\nGPT-4Med、 Med-PalM",
+    "text": "技术\n\n大语言模型应用于医疗健康领域   与传统数字媒介相比，人工智能大模型（AI大模型）具备通用泛化能力、自然语言处理能力及知识整合能力。此类特性降低了技术使用门槛，支持不同场景的定制化应用，为精准、高效、个性化的健康科普提供了新的传播媒介。无论是专业人员还是普通群众，都能随时随地与AI进行健康咨询对话，从而使医疗信息变得更易获取和理解，有效提升健康知识传播效果。  易健AI正在引领一场健康科普的智能革命，为构建我国智慧医疗生态系统贡献力量。自发布以来，小程序已推出多项创新功能，包括多模态健康档案管理、AI智能问答、健康数据分析和个性化健康咨询，以及多语言识别处理能力。这些功能不仅提升了科普内容生成的自动化程度，还实现了内容的个性化传播，显著提高了健康科普的传播效率和精准度。",
     "crumbs": [
       "中文",
-      "项目背景"
-    ]
-  },
-  {
-    "objectID": "introduction-zh.html#需求",
-    "href": "introduction-zh.html#需求",
-    "title": "项目背景",
-    "section": "需求",
-    "text": "需求\n\n复印病历\n健康档案零散、不连续",
-    "crumbs": [
-      "中文",
-      "项目背景"
+      "发展愿景"
     ]
   },
   {
     "objectID": "introduction-zh.html#团队",
     "href": "introduction-zh.html#团队",
-    "title": "项目背景",
+    "title": "发展愿景",
     "section": "团队",
-    "text": "团队\n\n各有所长\n热忱健康",
+    "text": "团队\n\n各有所长，热忱健康   团队成员在健康传播与人工智能技术领域积累深厚，致力将人工智能技术应用于健康传播实践。",
     "crumbs": [
       "中文",
-      "项目背景"
+      "发展愿景"
     ]
   },
   {
     "objectID": "functionality-zh.html",
     "href": "functionality-zh.html",
-    "title": "功能",
+    "title": "功能介绍",
     "section": "",
-    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
+    "text": "健康档案管理\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n健康数据分析\n\n提供心理状态评估、食物热量算法，全面评估用户健康\n\n\n\n\n\n\n\n\n\n\n心理评估\n\n\n\n\n\n\n\n食物热量计算\n\n\n\n\n\n\n\n智能问答交互\n\n用户输入问题、AI分析问题并生成回答、以对话框形式进行智能交互\n\n\n\n\n\n\n\n\n个性化健康咨询\n\n创新情感智能算法，对大语言模型进行Prompt优化，智能助手以多种聊天风格输出个性化回答",
     "crumbs": [
       "中文",
-      "功能"
-    ]
-  },
-  {
-    "objectID": "functionality-zh.html#功能详述",
-    "href": "functionality-zh.html#功能详述",
-    "title": "功能",
-    "section": "",
-    "text": "应用名称：易健AI（eHealth）\n功能定位：健康管理AI咨询问答\n版本：\n\n公开发行版： 2.0.0\n体验版： 2.6.6\n\n目标用户：需要健康管理与咨询服务的用户\n\n\n\n\n通过表单形式，支持用户上传管理健康档案，如体征数据、医疗记录等\n\n\n\n\n\n\n提供食物热量计算、心理状态评估等健康数据分析算法\n\n\n\n\n\n\n用户输入问题、AI分析问题并生成回答、以对话框形式展示互动过程\n\n\n\n\n\n\n基于用户的健康数据，对大型语言模型进行Prompt微调，定制模型的回答机制",
-    "crumbs": [
-      "中文",
-      "功能"
+      "功能介绍"
     ]
   },
   {
     "objectID": "team-zh.html",
     "href": "team-zh.html",
-    "title": "我们的团队",
+    "title": "团队成员",
     "section": "",
-    "text": "刘时雨\n高瑜静",
+    "text": "联合创始人\n\n刘时雨\n高瑜静",
     "crumbs": [
       "中文",
-      "我们的团队"
-    ]
-  },
-  {
-    "objectID": "team-zh.html#易健团队",
-    "href": "team-zh.html#易健团队",
-    "title": "我们的团队",
-    "section": "",
-    "text": "刘时雨\n高瑜静",
-    "crumbs": [
-      "中文",
-      "我们的团队"
+      "团队成员"
     ]
   },
   {
@@ -209,18 +208,7 @@
     "href": "team-en.html",
     "title": "Our Team",
     "section": "",
-    "text": "Shiyu Liu\nYujing Gao",
-    "crumbs": [
-      "English",
-      "Our Team"
-    ]
-  },
-  {
-    "objectID": "team-en.html#ehealth-team",
-    "href": "team-en.html#ehealth-team",
-    "title": "Our Team",
-    "section": "",
-    "text": "Shiyu Liu\nYujing Gao",
+    "text": "Co-Founder\n\n\nShiyu Liu\nYujing Gao\n\n\n \n\nEasyHealth AI Honored with China’s Distinguished Health Communication Achievement Award 2024",
     "crumbs": [
       "English",
       "Our Team"
